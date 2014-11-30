@@ -1,8 +1,8 @@
 <?php
 
 	// MailChimp
-	$listID = "LIST-ID";
-	$APIKey = "API-KEY";
+	$listID = "514ac95564";
+	$APIKey = "3797f5465cba58a7ad446da0c395170a-us9";
 
 	// Database
 	$host = 'YOUR-HOST';
@@ -15,6 +15,6 @@
     $subject = 'Subject here...';
 	
 	// Variant
-	$useMailChimp = "NO";
+	$useMailChimp = "YES";
 
 ?>
