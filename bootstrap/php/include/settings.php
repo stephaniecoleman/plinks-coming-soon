@@ -12,7 +12,7 @@
 	
 	// Contact
 	$to = 'plinksapp@gmail.com';
-    $subject = 'Subject here...';
+  $subject = 'Subject here...';
 	
 	// Variant
 	$useMailChimp = "YES";
