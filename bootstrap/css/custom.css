@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'NeutraText-Book';
+  src: 
+    url('bootstrap/fonts/neutratext/neutratext-book.woff') format('woff');
+    url('bootstrap/fonts/neutratext/neutratext-book.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'NeutraText-Demi';
+  src: 
+    url('bootstrap/fonts/neutratext/neutratext-demi.woff') format('woff');
+    url('bootstrap/fonts/neutratext/neutratext-demi.ttf') format('ttf');
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+	font-family: 'NeutraText-Demi', Helvetica, Arial, sans-serif;
+}
+
+p {
+	font-size: 19px;
+}
+
+.team-member p {
+	height: 200px;
+	font-size: 14px;
+}
+
+.team-member-profession {
+	font-size: 14px;
+}
+
+.feature-box .description p {
+	font-size: 16px;
+	height: 100px;
+}
